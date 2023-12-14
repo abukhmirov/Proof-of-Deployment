@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Proof_of_Deployment</RootNamespace>
+	  <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
 
 </Project>
